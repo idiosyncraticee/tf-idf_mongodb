@@ -2,6 +2,7 @@
 Created on Dec 7, 2012
 
 @author: Chris
+Much of the NLP code was adapted from Mathew Russell's book Mining the Social Web
 '''
 
 import sys
